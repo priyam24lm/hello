@@ -1,2 +1,2 @@
 Testing branch 2
-adding line to test branch 4 conflict
+branch 4 conflict test
