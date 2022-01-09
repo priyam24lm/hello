@@ -1,3 +1,4 @@
 Testing branch 2
 branch 4 conflict test
 ADDING LINE TO TEST CONFLICT for BRANCH4
+adding line in local to test new config
